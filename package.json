@@ -1,0 +1,20 @@
+{
+  "name": "travel_uz",
+  "version": "1.0.0",
+  "description": "\u0016\u0016The National \"PR-Center\" was created to promote the tourist, cultural, natural and sports potential of Uzbekistan.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss css/main.css -w"
+  },
+  "keywords": [
+    "travel",
+    "nature",
+    "agency",
+    "\u0016tourism"
+  ],
+  "author": "xursand dev",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
